@@ -11,7 +11,7 @@ The project was created as both a Ventura County GIS web landing page project an
 | Item | Value |
 | --- | --- |
 | Repository | `vc_gis_web` |
-| Organization | `ITSD-VenCo-GIS` |
+| Organization | `vcgis` |
 | Platform | `GitHub` |
 | Website Type | `Static HTML` |
 | Hosting | `GitHub Pages` |
@@ -56,7 +56,7 @@ Settings
 Expected GitHub Pages URL:
 
 ```text
-https://ITSD-VenCo-GIS.github.io/vc_gis_web/
+https://vcgis.github.io/vc_gis/
 ```
 
 ## Local Development
